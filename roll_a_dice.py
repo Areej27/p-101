@@ -3,7 +3,7 @@ import random
 response= "y"
 
 while response=="y":
-    no= random.randinit(1,6)
+    no= random.randint(1,6)
 
     if no == 1:
         print("[---]")
